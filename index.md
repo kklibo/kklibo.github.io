@@ -67,4 +67,4 @@ where
 }
 
 ```
-[use example](example.rs)
+[use example](example.md)
