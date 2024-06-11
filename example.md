@@ -1,3 +1,4 @@
+```rust
 pub fn merge(
     iter: impl Iterator<Item = TokenId>,
     merge_if: impl Fn(TokenId, TokenId) -> Option<TokenId>,
@@ -20,3 +21,4 @@ pub fn merge(
 
     result
 }
+```
